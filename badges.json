@@ -22,7 +22,7 @@
       "name": "BluRay",
       "pattern": "(?i)^(?=.*(?:bluray|blu-ray))(?!.*remux)",
       "tagColor": "#E600E932",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "textColor": "#27C04F",
       "type": "filter"
     },
@@ -35,7 +35,7 @@
       "name": "WebDL",
       "pattern": "(?i)\\b(?:web[-_. ]?dl|webdl|webrip|web-rip)\\b",
       "tagColor": "#E600E932",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "textColor": "#27C04F",
       "type": "filter"
     },
@@ -48,7 +48,7 @@
       "name": "SeaDex",
       "pattern": "(?i)\\b(?:seadex|best[\\s._-]?release|alt[\\s._-]?(?:best[\\s._-]?)?release)\\b|ᴀʟᴛ ʀᴇʟᴇᴀsᴇ|ʙᴇsᴛ ʀᴇʟᴇᴀsᴇ",
       "tagColor": "#E600E932",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "textColor": "#27C04F",
       "type": "filter"
     },
@@ -61,7 +61,7 @@
       "name": "4K",
       "pattern": "(?i)^(?=.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?))",
       "tagColor": "#16181C",
-      "tagStyle": "bordered",
+      "tagStyle": "filled",
       "textColor": "#FFBE01",
       "type": "filter"
       "borderColor": "#FFBE01"
