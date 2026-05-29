@@ -72,7 +72,7 @@
       "isEnabled": true,
       "name": "1080p",
       "pattern": "(?i)\\b1080[pi]?\\b",
-      "tagColor": "#16181C",
+      "tagColor": "#FF6904",
       "tagStyle": "filled",
       "textColor": "#FF9A3D",
       "type": "filter"
@@ -85,7 +85,7 @@
       "isEnabled": true,
       "name": "720p",
       "pattern": "(?i)\\b720[pi]?\\b",
-      "tagColor": "#16181C",
+      "tagColor": "#FB411C",
       "tagStyle": "filled",
       "textColor": "#FF9A3D",
       "type": "filter"
