@@ -66,7 +66,6 @@
       "borderColor": "#FFBE01"
     },
     {
-      "borderColor": "#FF858283",
       "groupId": "gr",
       "id": "r-1080",
       "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/colored%20regex%20tags/1080p.png",
@@ -74,13 +73,12 @@
       "name": "1080p",
       "pattern": "(?i)\\b1080[pi]?\\b",
       "tagColor": "#16181C",
-      "tagStyle": "bordered",
+      "tagStyle": "filled",
       "textColor": "#FF9A3D",
       "type": "filter"
       "borderColor": "#FF6904"
     },
     {
-      "borderColor": "#FF858283",
       "groupId": "gr",
       "id": "r-720",
       "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/colored%20regex%20tags/720p.png",
@@ -88,7 +86,7 @@
       "name": "720p",
       "pattern": "(?i)\\b720[pi]?\\b",
       "tagColor": "#16181C",
-      "tagStyle": "bordered",
+      "tagStyle": "filled",
       "textColor": "#FF9A3D",
       "type": "filter"
       "borderColor": "#FB411C"
@@ -198,7 +196,6 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
       "groupId": "gv",
       "id": "v-imax",
       "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/refs/heads/main/Other/colored%20regex%20tags/IMAXv2.png",
@@ -206,7 +203,7 @@
       "name": "IMAX",
       "pattern": "(?i)^(?=.*\\bIMAX\\b)(?!.*enhanced)",
       "tagColor": "#16181C",
-      "tagStyle": "bordered",
+      "tagStyle": "filled",
       "textColor": "#FFBE01",
       "type": "filter"
       "borderColor": "#FFBE01"
@@ -316,16 +313,16 @@
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FFBE01",
       "groupId": "gv",
       "id": "a-dv",
       "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/colored%20regex%20tags/DV.png",
       "isEnabled": true,
       "name": "DV",
       "pattern": "(?i)^(?=.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?!.*\\batmos\\b)(?!.*\\btrue[\\s._-]?hd\\b)(?!.*(?:\\bddp|\\bdd\\+|\\beac-?3|\\be-?ac-?3))(?!.*\\b(?:dd[25][. ][01]|dd[^p+a-z]\\b|\\bac-?3)\\b)",
-      "tagColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "textColor": "#FFFFFF",
+      "tagColor": "#FFBE01",
+      "tagStyle": "filled",
+      "textColor": "#0e0e0e",
       "type": "filter"
     },
     {
