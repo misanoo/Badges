@@ -68,7 +68,7 @@
     {
       "groupId": "gr",
       "id": "r-1080",
-      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/colored%20regex%20tags/1080p.png",
+      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/1080p.png",
       "isEnabled": true,
       "name": "1080p",
       "pattern": "(?i)\\b1080[pi]?\\b",
@@ -81,7 +81,7 @@
     {
       "groupId": "gr",
       "id": "r-720",
-      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/colored%20regex%20tags/720p.png",
+      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/720p.png",
       "isEnabled": true,
       "name": "720p",
       "pattern": "(?i)\\b720[pi]?\\b",
@@ -198,7 +198,7 @@
     {
       "groupId": "gv",
       "id": "v-imax",
-      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/refs/heads/main/Other/colored%20regex%20tags/IMAXv2.png",
+      "imageURL": "https://github.com/nobnobz/Omni-Template-Bot-Bid-Raiser/blob/main/Other/regex%20tags/IMAXv2.PNG?raw=true",
       "isEnabled": true,
       "name": "IMAX",
       "pattern": "(?i)^(?=.*\\bIMAX\\b)(?!.*enhanced)",
