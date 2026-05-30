@@ -91,54 +91,15 @@
       "type": "filter"
       "borderColor": "#FB411C"
     },
-    {
-      "borderColor": "#FFFFFF",
-      "groupId": "ga",
-      "id": "a-dtsx",
-      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/dtsx.png",
+ {
+      "borderColor": "#FFBE01",
+      "groupId": "gv",
+      "id": "a-dv",
+      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/DV.png",
       "isEnabled": true,
-      "name": "DTS:X",
-      "pattern": "(?i)\\bdts[-_.: ]?x\\b",
-      "tagColor": "#FFFFFF",
-      "tagStyle": "filled",
-      "textColor": "#0e0e0e",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#FFFFFF",
-      "groupId": "ga",
-      "id": "a-dtsma",
-      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/dtsHDMA.png",
-      "isEnabled": true,
-      "name": "DTS-HD MA",
-      "pattern": "(?i)^(?=.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)",
-      "tagColor": "#FFFFFF",
-      "tagStyle": "filled",
-      "textColor": "#0e0e0e",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#FFFFFF",
-      "groupId": "ga",
-      "id": "a-dtshd",
-      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/dtsHD.png",
-      "isEnabled": true,
-      "name": "DTS-HD",
-      "pattern": "(?i)^(?=.*\\bdts[-_. ]?hd\\b)(?!.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)",
-      "tagColor": "#FFFFFF",
-      "tagStyle": "filled",
-      "textColor": "#0e0e0e",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#FFFFFF",
-      "groupId": "ga",
-      "id": "a-dts",
-      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/dts.png",
-      "isEnabled": true,
-      "name": "DTS",
-      "pattern": "(?i)^(?=.*\\bDTS\\b)(?!.*\\bdts[-_. ]?(?:hd|ma|xll|x)\\b)",
-      "tagColor": "#FFFFFF",
+      "name": "DV",
+      "pattern": "(?i)^(?=.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?!.*\\batmos\\b)(?!.*\\btrue[\\s._-]?hd\\b)(?!.*(?:\\bddp|\\bdd\\+|\\beac-?3|\\be-?ac-?3))(?!.*\\b(?:dd[25][. ][01]|dd[^p+a-z]\\b|\\bac-?3)\\b)",
+      "tagColor": "#FFBE01",
       "tagStyle": "filled",
       "textColor": "#0e0e0e",
       "type": "filter"
@@ -276,6 +237,58 @@
     {
       "borderColor": "#FFFFFF",
       "groupId": "ga",
+      "id": "a-dtsx",
+      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/dtsx.png",
+      "isEnabled": true,
+      "name": "DTS:X",
+      "pattern": "(?i)\\bdts[-_.: ]?x\\b",
+      "tagColor": "#FFFFFF",
+      "tagStyle": "filled",
+      "textColor": "#0e0e0e",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#FFFFFF",
+      "groupId": "ga",
+      "id": "a-dtsma",
+      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/dtsHDMA.png",
+      "isEnabled": true,
+      "name": "DTS-HD MA",
+      "pattern": "(?i)^(?=.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)",
+      "tagColor": "#FFFFFF",
+      "tagStyle": "filled",
+      "textColor": "#0e0e0e",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#FFFFFF",
+      "groupId": "ga",
+      "id": "a-dtshd",
+      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/dtsHD.png",
+      "isEnabled": true,
+      "name": "DTS-HD",
+      "pattern": "(?i)^(?=.*\\bdts[-_. ]?hd\\b)(?!.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)",
+      "tagColor": "#FFFFFF",
+      "tagStyle": "filled",
+      "textColor": "#0e0e0e",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#FFFFFF",
+      "groupId": "ga",
+      "id": "a-dts",
+      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/dts.png",
+      "isEnabled": true,
+      "name": "DTS",
+      "pattern": "(?i)^(?=.*\\bDTS\\b)(?!.*\\bdts[-_. ]?(?:hd|ma|xll|x)\\b)",
+      "tagColor": "#FFFFFF",
+      "tagStyle": "filled",
+      "textColor": "#0e0e0e",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#FFFFFF",
+      "groupId": "ga",
       "id": "a-dp",
       "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/DDPLUS.png",
       "isEnabled": true,
@@ -312,19 +325,7 @@
       "textColor": "#0e0e0e",
       "type": "filter"
     },
-    {
-      "borderColor": "#FFBE01",
-      "groupId": "gv",
-      "id": "a-dv",
-      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/DV.png",
-      "isEnabled": true,
-      "name": "DV",
-      "pattern": "(?i)^(?=.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?!.*\\batmos\\b)(?!.*\\btrue[\\s._-]?hd\\b)(?!.*(?:\\bddp|\\bdd\\+|\\beac-?3|\\be-?ac-?3))(?!.*\\b(?:dd[25][. ][01]|dd[^p+a-z]\\b|\\bac-?3)\\b)",
-      "tagColor": "#FFBE01",
-      "tagStyle": "filled",
-      "textColor": "#0e0e0e",
-      "type": "filter"
-    },
+  
     {
       "borderColor": "#FFFFFF",
       "groupId": "gc",
