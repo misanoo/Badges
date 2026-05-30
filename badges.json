@@ -182,6 +182,19 @@
       "textColor": "#FFFFFF",
       "type": "filter"
     },
+     {
+      "borderColor": "#FFFFFF",
+      "groupId": "ga",
+      "id": "a-th",
+      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/TrueHD.png",
+      "isEnabled": true,
+      "name": "TrueHD",
+      "pattern": "(?i)^(?=.*\\btrue[\\s._-]?hd\\b)(?!.*\\batmos\\b)(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
+      "tagColor": "#FFFFFF",
+      "tagStyle": "filled",
+      "textColor": "#0e0e0e",
+      "type": "filter"
+    },
     {
       "borderColor": "#FFFFFF",
       "groupId": "ga",
@@ -208,19 +221,7 @@
       "textColor": "#FFFFFF",
       "type": "filter"
     },
-    {
-      "borderColor": "#FFFFFF",
-      "groupId": "ga",
-      "id": "a-th",
-      "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/TrueHD.png",
-      "isEnabled": true,
-      "name": "TrueHD",
-      "pattern": "(?i)^(?=.*\\btrue[\\s._-]?hd\\b)(?!.*\\batmos\\b)(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
-      "tagColor": "#FFFFFF",
-      "tagStyle": "filled",
-      "textColor": "#0e0e0e",
-      "type": "filter"
-    },
+   
     {
       "borderColor": "#00000000",
       "groupId": "ga",
