@@ -202,7 +202,7 @@
       "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/TrueHD.png",
       "isEnabled": true,
       "name": "TrueHD",
-      "pattern": "(?i)^(?=.*\\btrue[\\s._-]?hd\\b)(?!.*\\batmos\\b)(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
+      "pattern": "(?i)(?:\\btrue[ ._-]?hd\\b|^(?=.*\\batmos\\b)(?=.*\\bremux\\b)(?!.*\\b(?:true[ ._-]?hd|ddp|dd\\+|e-?ac3|eac3)\\b).+$)",
       "tagColor": "#FFFFFF",
       "tagStyle": "filled",
       "textColor": "#0e0e0e",
