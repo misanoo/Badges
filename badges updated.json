@@ -105,14 +105,14 @@
       "borderColor": "#FB411C"
     },
     {
-      "borderColor": "#0B0B0B",
+      "borderColor": "#F5F7FAFF",
       "groupId": "gv",
       "id": "a-dv",
       "imageURL": "https://raw.githubusercontent.com/nobnobz/Omni-Template-Bot-Bid-Raiser/main/Other/regex%20tags/DV.png",
       "isEnabled": true,
       "name": "DV",
       "pattern": "(?i)\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b",
-      "tagColor": "#0B0B0B",
+      "tagColor": "#F5F7FAFF",
       "tagStyle": "filled",
       "textColor": "#0e0e0e",
       "type": "filter"
