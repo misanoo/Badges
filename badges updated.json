@@ -195,19 +195,6 @@
       "textColor": "#FFFFFF",
       "type": "filter"
     },
-    {
-      "borderColor": "#00000000",
-      "groupId": "ga",
-      "id": "a-at-dv",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/atmos-vision.png",
-      "isEnabled": false,
-      "name": "Atmos+DV",
-      "pattern": "(?i)^(?=.*\\batmos\\b)(?=.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
-      "tagColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
      {
       "borderColor": "#FFFFFF",
       "groupId": "ga",
@@ -232,33 +219,6 @@
       "tagColor": "#FFFFFF",
       "tagStyle": "filled",
       "textColor": "#0e0e0e",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
-      "groupId": "ga",
-      "id": "a-th-dv",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/truehd-vision.png",
-      "isEnabled": false,
-      "name": "TrueHD+DV",
-      "pattern": "(?i)^(?=.*\\btrue[\\s._-]?hd\\b)(?!.*\\batmos\\b)(?=.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
-      "tagColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-   
-    {
-      "borderColor": "#00000000",
-      "groupId": "ga",
-      "id": "a-dp-dv",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/digitalplus-vision.png",
-      "isEnabled": false,
-      "name": "DD++DV",
-      "pattern": "(?i)^(?=.*(?:\\bddp|\\bdd\\+|\\beac-?3|\\be-?ac-?3))(?!.*\\batmos\\b)(?!.*\\btrue[\\s._-]?hd\\b)(?=.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
-      "tagColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
@@ -324,19 +284,6 @@
       "tagColor": "#FFFFFF",
       "tagStyle": "filled",
       "textColor": "#0e0e0e",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
-      "groupId": "ga",
-      "id": "a-dd-dv",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/digital-vision.png",
-      "isEnabled": false,
-      "name": "DD+DV",
-      "pattern": "(?i)^(?=.*\\b(?:dd[25][. ][01]|dd[^p+a-z]\\b|\\bac-?3)\\b)(?!.*(?:\\bddp|\\bdd\\+|\\beac-?3|\\be-?ac-?3))(?!.*\\btrue[\\s._-]?hd\\b)(?!.*\\batmos\\b)(?=.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)",
-      "tagColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
