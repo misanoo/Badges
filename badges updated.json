@@ -183,15 +183,15 @@
       "borderColor": "#FFBE01"
     },
     {
-      "borderColor": "#FFFFFF",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "sdr",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images/sdr.png",
       "isEnabled": true,
       "name": "SDR",
       "pattern": "(?i)\bsdr\b",
-      "tagColor": "#FFFFFF",
-      "tagStyle": "filled",
+      "tagColor": "#00000000",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
