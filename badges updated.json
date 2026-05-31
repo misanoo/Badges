@@ -33,7 +33,7 @@
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/colored-webdl.png",
       "isEnabled": true,
       "name": "WebDL",
-      "pattern": "(?i)\\b(?:web[-_. ]?dl|webdl|webrip|web-rip)\\b",
+      "pattern": "",
       "tagColor": "#E600E932",
       "tagStyle": "filled",
       "textColor": "#27C04F",
