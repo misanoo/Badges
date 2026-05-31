@@ -1,10 +1,10 @@
 {
   "filters": [
     {
-      "borderColor": "#000000",
+      "borderColor": "#FF00FF37",
       "groupId": "gq",
       "id": "q-r",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images%20w%3Ao%20logo/colored-remux.png",
+      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images%20w:o%20logo/remux-black.png",
       "isEnabled": true,
       "name": "Remux",
       "pattern": "(?i)\\bremux\\b",
@@ -14,10 +14,10 @@
       "type": "filter"
     },
     {
-      "borderColor": "#000000",
+      "borderColor": "#FF00FF37",
       "groupId": "gq",
       "id": "q-b",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images%20w%3Ao%20logo/colored-bluray.png",
+      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images%20w:o%20logo/bluray-black.png",
       "isEnabled": true,
       "name": "BluRay",
       "pattern": "(?i)^(?=.*(?:bluray|blu-ray))(?!.*remux)",
@@ -27,10 +27,10 @@
       "type": "filter"
     },
     {
-      "borderColor": "#000000",
+      "borderColor": "#FF00FF37",
       "groupId": "gq",
       "id": "q-w",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images%20w%3Ao%20logo/colored-webdl.png",
+      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images%20w:o%20logo/webdl-black.png",
       "isEnabled": true,
       "name": "WebDL",
       "pattern": "(?i)\\b(?:web[-_. ]?dl|webdl)\\b",
@@ -40,10 +40,10 @@
       "type": "filter"
     },
     {
-      "borderColor": "#000000",
+      "borderColor": "#FF00FF37",
       "groupId": "gq",
       "id": "q-w",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images%20w%3Ao%20logo/colored-webrip.png",
+      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images%20w:o%20logo/webrip-black.png",
       "isEnabled": true,
       "name": "WebRip",
       "pattern": "(?i)\\bweb[-_. ]?rip\\b",
@@ -53,10 +53,10 @@
       "type": "filter"
     },
     {
-      "borderColor": "#000000",
+      "borderColor": "#FF00FF37",
       "groupId": "gv",
       "id": "v-seadex",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/colored-SeaDex.png",
+      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images%20w:o%20logo/SEADEX-black.png",
       "isEnabled": true,
       "name": "SeaDex",
       "pattern": "(?i)\\b(?:seadex|best[\\s._-]?release|alt[\\s._-]?(?:best[\\s._-]?)?release)\\b|ᴀʟᴛ ʀᴇʟᴇᴀsᴇ|ʙᴇsᴛ ʀᴇʟᴇᴀsᴇ",
