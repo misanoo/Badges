@@ -183,6 +183,19 @@
       "borderColor": "#FFBE01"
     },
     {
+      "borderColor": "#FFFFFF",
+      "groupId": "gv",
+      "id": "sdr",
+      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images/sdr.png",
+      "isEnabled": true,
+      "name": "SDR",
+      "pattern": "(?i)\bsdr\b",
+      "tagColor": "#FFFFFF",
+      "tagStyle": "filled",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
       "borderColor": "#00000000",
       "groupId": "ga",
       "id": "a-at-dv",
