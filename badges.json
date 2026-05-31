@@ -43,7 +43,7 @@
       "borderColor": "#FF00FF37",
       "groupId": "gq",
       "id": "q-w",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images/colored-webrip.png",
+      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images/webrip.png",
       "isEnabled": true,
       "name": "WebRip",
       "pattern": "(?i)\\bweb[-_. ]?rip\\b",
