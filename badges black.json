@@ -1,7 +1,7 @@
 {
   "filters": [
     {
-      "borderColor": "#FF00FF37",
+      "borderColor": "#FFBE01",
       "groupId": "gq",
       "id": "q-r",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images%20w%3Ao%20logo/colored-remux.png",
@@ -14,7 +14,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF00FF37",
+      "borderColor": "#FFBE01",
       "groupId": "gq",
       "id": "q-b",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images%20w%3Ao%20logo/colored-bluray.png",
@@ -27,7 +27,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF00FF37",
+      "borderColor": "#FFBE01",
       "groupId": "gq",
       "id": "q-w",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images%20w%3Ao%20logo/colored-webdl.png",
@@ -40,7 +40,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF00FF37",
+      "borderColor": "#FFBE01",
       "groupId": "gq",
       "id": "q-w",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images%20w%3Ao%20logo/colored-webrip.png",
