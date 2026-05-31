@@ -189,7 +189,7 @@
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images/sdr.png",
       "isEnabled": true,
       "name": "SDR",
-      "pattern": "(?i)\bsdr\b",
+      "pattern": "(?i)\\bsdr\\b",
       "tagColor": "#00000000",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
