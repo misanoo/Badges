@@ -47,7 +47,7 @@
       "isEnabled": true,
       "name": "WebRip",
       "pattern": "(?i)\bweb[-_. ]?rip\b",
-      "tagColor": "#00000000",
+      "tagColor": "#E600E932",
       "tagStyle": "filled",
       "textColor": "#27C04F",
       "type": "filter"
