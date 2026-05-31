@@ -41,6 +41,19 @@
     },
     {
       "borderColor": "#FF00FF37",
+      "groupId": "gq",
+      "id": "q-w",
+      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images/colored-webrip.png",
+      "isEnabled": true,
+      "name": "WebRip",
+      "pattern": "(?i)\\bweb[-_. ]?rip\\b",
+      "tagColor": "#E600E932",
+      "tagStyle": "filled",
+      "textColor": "#27C04F",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#FF00FF37",
       "groupId": "gv",
       "id": "v-seadex",
       "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/colored-SeaDex.png",
@@ -168,6 +181,19 @@
       "textColor": "#FFBE01",
       "type": "filter"
       "borderColor": "#FFBE01"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "gv",
+      "id": "v-sdr",
+      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images/sdr.png",
+      "isEnabled": true,
+      "name": "SDR",
+      "pattern": "(?i)\bsdr\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter"
     },
     {
       "borderColor": "#00000000",
