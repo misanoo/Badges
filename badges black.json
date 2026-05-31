@@ -10,7 +10,7 @@
       "pattern": "(?i)\\bremux\\b",
       "tagColor": "#E600E932",
       "tagStyle": "filled",
-      "textColor": "#000000",
+      "textColor": "#800080",
       "type": "filter"
     },
     {
@@ -23,7 +23,7 @@
       "pattern": "(?i)^(?=.*(?:bluray|blu-ray))(?!.*remux)",
       "tagColor": "#E600E932",
       "tagStyle": "filled",
-      "textColor": "#000000",
+      "textColor": "#800080",
       "type": "filter"
     },
     {
@@ -36,7 +36,7 @@
       "pattern": "(?i)\\b(?:web[-_. ]?dl|webdl)\\b",
       "tagColor": "#E600E932",
       "tagStyle": "filled",
-      "textColor": "#000000",
+      "textColor": "#800080",
       "type": "filter"
     },
     {
@@ -49,7 +49,7 @@
       "pattern": "(?i)\\bweb[-_. ]?rip\\b",
       "tagColor": "#E600E932",
       "tagStyle": "filled",
-      "textColor": "#000000",
+      "textColor": "#800080",
       "type": "filter"
     },
     {
