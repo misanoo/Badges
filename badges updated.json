@@ -46,7 +46,7 @@
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images/colored-webrip.png",
       "isEnabled": true,
       "name": "WebRip",
-      "pattern": "(?i)\\bweb[-_. ]?rip\\b",
+      "pattern": "(?i)\\b(?:web[-_. ]?rip|webrip)\\b",
       "tagColor": "#E600E932",
       "tagStyle": "filled",
       "textColor": "#27C04F",
