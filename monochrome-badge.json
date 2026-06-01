@@ -189,7 +189,7 @@
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/white_Atmos.png",
       "isEnabled": true,
       "name": "Atmos",
-      "pattern": "(?i)^(?!.*\\btrue[ _\\.\\-]?hd\\b).*\\batmos\\b.*$",
+      "pattern": "(?i)\\batmos\\b",
       "tagColor": "#e06941",
       "tagStyle": "filled",
       "textColor": "#0e0e0e",
