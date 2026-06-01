@@ -53,7 +53,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#07e88a",
+      "borderColor": "#bc1eff",
       "groupId": "gv",
       "id": "v-seadex",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/mono-SeaDex.png",
