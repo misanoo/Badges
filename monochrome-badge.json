@@ -137,7 +137,7 @@
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/HDR.png",
       "isEnabled": true,
       "name": "HDR",
-      "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*\\bHDR\\b)(?!.*hdr[\\s._-]?10)",
+      "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*\\bHDR\\b)(?!.*bhdr[\\s._-]?10\\b)",
       "tagColor": "#ff4d6d",
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
