@@ -53,6 +53,19 @@
       "type": "filter"
     },
     {
+      "borderColor": "#07e88a",
+      "groupId": "gv",
+      "id": "v-seadex",
+      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/mono-SeaDex.png",
+      "isEnabled": true,
+      "name": "SeaDex",
+      "pattern": "(?i)\\b(?:seadex|best[\\s._-]?release|alt[\\s._-]?(?:best[\\s._-]?)?release)\\b|ᴀʟᴛ ʀᴇʟᴇᴀsᴇ|ʙᴇsᴛ ʀᴇʟᴇᴀsᴇ",
+      "tagColor": "#00000000",
+      "tagStyle": "bordered",
+      "textColor": "#FFBE01",
+      "type": "filter"
+    },
+    {
       "groupId": "gr",
       "id": "r-4k",
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/4k.png",
