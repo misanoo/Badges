@@ -173,7 +173,7 @@
       "borderColor": "#590d22",
       "groupId": "gv",
       "id": "v-3d",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/3d.png",
+      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/3D-v2.png",
       "isEnabled": true,
       "name": "3D",
       "pattern": "(?i)\\b(?:3d|sbs|half[-_. ]?sbs|hsbs|ou|over[-_. ]?under)\\b",
