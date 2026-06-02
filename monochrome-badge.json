@@ -189,8 +189,8 @@
       "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/10bit-v2.png",
       "isEnabled": true,
       "name": "10bit",
-      "pattern": "(?i)\\b(?:10[-_. ]?bit)\\b",
-      "tagColor": "#ffb3c1",
+      "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision|hdr10)\\b).*\\b10[-_. ]?bit\\b",
+      "tagColor": "#ff4d6d",
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
