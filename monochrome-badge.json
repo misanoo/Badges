@@ -169,6 +169,32 @@
       "type": "filter"
       "borderColor": "#590d22"
     },
+    {
+      "borderColor": "#590d22",
+      "groupId": "gv",
+      "id": "v-3d",
+      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/3D.png",
+      "isEnabled": true,
+      "name": "3D",
+      "pattern": "(?i)\\b(?:3d|sbs|half[-_. ]?sbs|hsbs|ou|over[-_. ]?under)\\b",
+      "tagColor": "#ffb3c1",
+      "tagStyle": "filled",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#590d22",
+      "groupId": "gv",
+      "id": "v-10bit",
+      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/10bit.png",
+      "isEnabled": true,
+      "name": "10bit",
+      "pattern": "(?i)\\b(?:10[-_. ]?bit)\\b",
+      "tagColor": "#ffb3c1",
+      "tagStyle": "filled",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
      {
       "borderColor": "#cb4518",
       "groupId": "ga",
@@ -317,7 +343,7 @@
       "borderColor": "#00000000",
       "groupId": "gl",
       "id": "l-en",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images%20w:o%20logo/english.png",
+      "imageURL": "",
       "isEnabled": true,
       "name": "🇬🇧",
       "pattern": "(?i)\\benglish\\b|\\beng\\b",
@@ -434,7 +460,7 @@
       "borderColor": "#00000000",
       "groupId": "gl",
       "id": "l-hi",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images%20w:o%20logo/hindi.png",
+      "imageURL": "",
       "isEnabled": true,
       "name": "🇮🇳",
       "pattern": "(?i)\\bhindi\\b|\\bhin\\b|[ऀ-ॿ]{3,}",
